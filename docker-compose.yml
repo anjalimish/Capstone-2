@@ -4,9 +4,9 @@ services:
 
   web:
     build: .
-    command: bash -c "python main.py runserver 0.0.0.0:8060"
+    command: bash -c "python main.py runserver 0.0.0.0:9090"
     volumes:
       - .:/code
     ports:
-      - "8080:8080"
+      - "9090:9090"
     

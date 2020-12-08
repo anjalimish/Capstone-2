@@ -1,0 +1,12 @@
+version: "3.7"
+   
+services:
+
+  web:
+    build: .
+    command: bash -c "python main.py runserver 0.0.0.0:8080"
+    volumes:
+      - .:/code
+    ports:
+      - "8080:8080"
+    

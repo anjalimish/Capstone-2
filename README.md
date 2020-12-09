@@ -1,6 +1,6 @@
 # Capstone-2
 # **Lane Lines Detection Using Python and OpenCV** 
-### In this project, we used Python and OpenCV to detect lane lines on the road. we developed a processing pipeline that works on a series of individual images, and applied the result to a video stream.
+### In this project, we used Python and OpenCV to detect lanes on the road. We developed a processing pipeline that works on a series of individual images, and applied the result to a video stream.
 
 Pipeline architecture:
 ---
@@ -11,18 +11,11 @@ Pipeline architecture:
    - Apply Gaussian smoothing.
    - Perform Canny edge detection.
 4. Determine the region of interest.
-5. Apply Hough transform.
-6. Average and extrapolating the lane lines.
-7. Apply on video streams.
+5. Camera Calibration
+6. Detecting lane area
+7. Apply on image & video streams.
 
-I'll explain each step in details below.
 
-## **Environement:**
----
-- Windows 7
-- Anaconda 4.3.29
-- Python 3.6.2
-- OpenCV 3.1.0
 
 ### **1. Loading test images:**
 

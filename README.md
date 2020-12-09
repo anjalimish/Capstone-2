@@ -1,5 +1,5 @@
 # Capstone-2
-# **Lane Lines Detection Using Python and OpenCV** 
+# **Lane Detection Using Python and OpenCV** 
 ### In this project, we used Python and OpenCV to detect lanes on the road. We developed a processing pipeline that works on a series of individual images, and applied the result to a video stream.
 
 Pipeline architecture:

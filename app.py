@@ -26,8 +26,11 @@ IMAGE_FOLDER = 'static/'
 PROCESSED_FOLDER = 'static/processed/'
 #IMAGE_FOLDER = os.path.join('upload', 'images')
 
-
-app = Flask(__name__)  
+def create_app():
+    app = Flask(__name__)
+    return app
+app = create_app()
+#app = Flask(__name__)  
 app.config['UPLOAD_FOLDER'] = IMAGE_FOLDER
 app.config['PROCESSED_FOLDER'] = PROCESSED_FOLDER
 
@@ -154,7 +157,7 @@ def info():
 
 
 if __name__ == '__main__':  
-	app.run(host='0.0.0.0',port=8080,debug=True)  
+	app.run(host='0.0.0.0',port=9090,debug=True)  
 
 
 

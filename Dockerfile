@@ -14,5 +14,9 @@ RUN pip install Flask
 RUN pip install numpy
 RUN pip install opencv-python
 RUN pip install gunicorn
+RUN pip install pytest
+RUN pip install app
+RUN pip install flask_app
+
 
 COPY . /code/

@@ -16,10 +16,11 @@ Pipeline architecture:
 7. Apply on image & video streams.
 
 # DevOps tools used:
-Git
-Docker
-Jenkins
-Selenium
-Pytest
-Pyb
+
+1. Git
+2. Docker
+3. Jenkins
+4. Selenium
+5. Pytest
+6. Pyb
 

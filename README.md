@@ -1,6 +1,6 @@
 # Capstone-2
 # **Lane Detection Using Python and OpenCV** 
-### In this project, we used Python and OpenCV to detect lanes on the road. We developed a processing pipeline that works on a series of individual images, and applied the result to a video stream.
+### In this project, we used Python and OpenCV to detect lane area of the road. We developed a processing pipeline that works on a series of individual images, and applied the result to a video stream.
 
 Pipeline architecture:
 ---
@@ -15,5 +15,11 @@ Pipeline architecture:
 6. Detecting lane area
 7. Apply on image & video streams.
 
-
+# DevOps tools used:
+Git
+Docker
+Jenkins
+Selenium
+Pytest
+Pyb
 

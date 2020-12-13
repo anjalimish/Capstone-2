@@ -1,0 +1,28 @@
+Collecting coverage
+  Using cached coverage-5.3-cp37-cp37m-win_amd64.whl (208 kB)
+Collecting pyassert
+  Downloading pyassert-0.4.2.tar.gz (6.2 kB)
+Collecting flask
+  Using cached Flask-1.1.2-py2.py3-none-any.whl (94 kB)
+Collecting six
+  Using cached six-1.15.0-py2.py3-none-any.whl (10 kB)
+Collecting Jinja2>=2.10.1
+  Using cached Jinja2-2.11.2-py2.py3-none-any.whl (125 kB)
+Collecting click>=5.1
+  Using cached click-7.1.2-py2.py3-none-any.whl (82 kB)
+Collecting Werkzeug>=0.15
+  Using cached Werkzeug-1.0.1-py2.py3-none-any.whl (298 kB)
+Collecting itsdangerous>=0.24
+  Using cached itsdangerous-1.1.0-py2.py3-none-any.whl (16 kB)
+Collecting MarkupSafe>=0.23
+  Using cached MarkupSafe-1.1.1-cp37-cp37m-win_amd64.whl (16 kB)
+Building wheels for collected packages: pyassert
+  Building wheel for pyassert (setup.py): started
+  Building wheel for pyassert (setup.py): finished with status 'done'
+  Created wheel for pyassert: filename=pyassert-0.4.2-py3-none-any.whl size=11983 sha256=1d618a6ac9f8ab3c5bf2afc0b0607de84e726cc75ef542a5433136487fa7248f
+  Stored in directory: c:\users\dell\appdata\local\pip\cache\wheels\c9\63\fb\a8d6b62b77bc2d4e45c3c3fc8cc8bb9685a1d386f4d2271498
+Successfully built pyassert
+Installing collected packages: coverage, six, pyassert, MarkupSafe, Jinja2, click, Werkzeug, itsdangerous, flask
+Successfully installed Jinja2-2.11.2 MarkupSafe-1.1.1 Werkzeug-1.0.1 click-7.1.2 coverage-5.3 flask-1.1.2 itsdangerous-1.1.0 pyassert-0.4.2 six-1.15.0
+WARNING: You are using pip version 20.2.3; however, version 20.3.1 is available.
+You should consider upgrading via the 'c:\users\dell\documents\capstone2\target\venv\build\cpython-3.7.4.final.0\scripts\python.exe -m pip install --upgrade pip' command.

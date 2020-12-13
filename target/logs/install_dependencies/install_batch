@@ -1,0 +1,5 @@
+Collecting pyassert
+  Using cached pyassert-0.4.2-py3-none-any.whl
+Requirement already satisfied: six in c:\users\dell\appdata\local\programs\python\python37\lib\site-packages (from pyassert) (1.15.0)
+Installing collected packages: pyassert
+Successfully installed pyassert-0.4.2

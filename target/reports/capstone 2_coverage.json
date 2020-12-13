@@ -1,0 +1,79 @@
+{
+  "module_names": [
+    {
+      "branches": 0,
+      "branches_missing": 0,
+      "branches_partial": 0,
+      "coverage": 0.0,
+      "lines": [
+        1,
+        2,
+        3,
+        5,
+        8,
+        10,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18
+      ],
+      "lines_not_covered": [
+        1,
+        2,
+        3,
+        5,
+        8,
+        10,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18
+      ],
+      "module": "test_app",
+      "sum_lines": 12,
+      "sum_lines_not_covered": 12
+    },
+    {
+      "branches": 0,
+      "branches_missing": 0,
+      "branches_partial": 0,
+      "coverage": 0.0,
+      "lines": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "lines_not_covered": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "module": "test_app1",
+      "sum_lines": 11,
+      "sum_lines_not_covered": 11
+    }
+  ],
+  "overall_branch_coverage": 100,
+  "overall_branch_partial_coverage": 100,
+  "overall_coverage": 0.0
+}
